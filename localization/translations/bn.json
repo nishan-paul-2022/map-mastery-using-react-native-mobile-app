@@ -1,0 +1,23 @@
+{
+  "profileDrawer": {
+    "home": "হোম",
+    "liveLocation": "লাইভ স্থান",
+    "liveLocationSpecific": "লাইভ স্থান নির্দিষ্ট",
+    "liveLocationDetails": "লাইভ স্থান বিবরণ",
+    "contributeLocation": "স্থান যোগাযোগ করুন",
+    "contributeLocationDetails": "স্থান যোগাযোগ বিবরণ",
+    "points": "পোয়াইন্ট",
+    "rewardsWithdrawal": "পুরস্কার উত্তোলন",
+    "profile": "প্রোফাইল",
+    "notify": "বিজ্ঞপ্তি",
+    "settings": "সেটিংস",
+    "submitReport": "রিপোর্ট প্রেরণ করুন",
+    "support": "সাপোর্ট",
+    "sso": "এসএসও",
+    "privacy": "গোপনীয়তা নীতি",
+    "terms": "শর্তাবলী",
+    "notfound": "পাওয়া যায় না",
+    "splash": "স্প্ল্যাশ",
+    "logout": "প্রস্থান"
+  }
+}

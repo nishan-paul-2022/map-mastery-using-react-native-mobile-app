@@ -1,0 +1,23 @@
+{
+  "profileDrawer": {
+    "home": "Home",
+    "liveLocation": "Live Location",
+    "liveLocationSpecific": "Live Location Specific",
+    "liveLocationDetails": "Live Location Details",
+    "contributeLocation": "Contribute Location",
+    "contributeLocationDetails": "Contribute Location Details",
+    "points": "Points",
+    "rewardsWithdrawal": "Rewards Withdrawal",
+    "profile": "Profile",
+    "notify": "Notifications",
+    "settings": "Settings",
+    "submitReport": "Submit Report",
+    "support": "Support",
+    "sso": "SSO",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "notfound": "Not Found",
+    "splash": "Splash",
+    "logout": "Logout"
+  }
+}
