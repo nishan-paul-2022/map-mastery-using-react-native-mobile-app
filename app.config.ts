@@ -12,13 +12,13 @@ const appTheme = {
 };
 
 const config: ExpoConfig = {
-  name: 'TrainKoi',
-  slug: 'trainkoi',
+  name: 'Map Mastery',
+  slug: 'map-mastery',
   version: '1.0.0',
-  owner: 'kai-mobile',
+  owner: 'x-or',
   orientation: 'portrait',
   userInterfaceStyle: 'automatic',
-  scheme: 'trainkoi',
+  scheme: 'map-mastery',
   icon: appTheme.images.icon,
   splash: {
     image: appTheme.images.icon,
@@ -26,12 +26,12 @@ const config: ExpoConfig = {
     resizeMode: 'contain',
   },
   ios: {
-    bundleIdentifier: 'com.kai.trainkoi',
+    bundleIdentifier: 'com.xor.mapmastery',
     buildNumber: '1',
     supportsTablet: true,
   },
   android: {
-    package: 'dca92b0a-3bff-4a11-b59e-2395a04caf9f',
+    package: 'com.xor.mapmastery',
     versionCode: 1,
     adaptiveIcon: {
       foregroundImage: appTheme.images.adaptiveIcon,
@@ -61,7 +61,7 @@ const config: ExpoConfig = {
       origin: false,
     },
     eas: {
-      projectId: 'dca92b0a-3bff-4a11-b59e-2395a04caf9f',
+      projectId: '47a6c0f3-80db-426e-898a-6fc422179632',
     },
   },
 };
